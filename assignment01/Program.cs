@@ -11,6 +11,7 @@ public class Program
         Console.WriteLine("1 = Create a triangle\n");
         Console.WriteLine("2 = Exit\n");
         Console.WriteLine("Please select an option: \n");
+        Console.WriteLine("");
         Input = Console.ReadLine();
         
         //If a user pick number 1 as a option so then, she or he need to input values for each side of the triangle
